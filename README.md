@@ -36,4 +36,9 @@
     <td><a href="https://drive.google.com/file/d/1IeTQQe_NG85FbpV9zGOe5POqbBXC9OuV/view?usp=drive_link" target="_blank">Play</a></td>
     <td><a href="./PracticalApplication6/">Code</a></td>
   </tr>
+  <tr>
+    <td>Azure Web Application</td>
+    <td><a href="https://drive.google.com/file/d/1cAmip6F5kXlEE7wE1GwIX2YA9BPwPFa2/view?usp=drive_link" target="_blank">Play</a></td>
+    <td><a href="./PracticalApplication7/">Code</a></td>
+  </tr>
 </table>
