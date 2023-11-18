@@ -25,5 +25,10 @@
     <td>MVC</td>
     <td><a href="https://drive.google.com/file/d/1_qbwk8iKUEX1AQ1oukow6Svdp55Q040K/view?usp=drive_link" target="_blank">Play</a></td>
     <td><a href="./PracticalApplication4/">Code</a></td>
+  </tr>
+  <tr>
+    <td>Service Endpoint</td>
+    <td><a href="https://drive.google.com/file/d/16PdfUteqxshIIyH3DRYALb7lhKzCItQR/view?usp=drive_link" target="_blank">Play</a></td>
+    <td><a href="./PracticalApplication5/">Code</a></td>
   </tr>  
 </table>
