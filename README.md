@@ -21,4 +21,9 @@
     <td><a href="https://drive.google.com/file/d/1422B6CgbAtX0UuXmDSFz8fElYHVmPySI/view?usp=drive_link" target="_blank">Play</a></td>
     <td><a href="./PracticalApplication3/">Code</a></td>
   </tr>
+  <tr>
+    <td>MVC</td>
+    <td><a href="https://drive.google.com/file/d/1_qbwk8iKUEX1AQ1oukow6Svdp55Q040K/view?usp=drive_link" target="_blank">Play</a></td>
+    <td><a href="./PracticalApplication4/">Code</a></td>
+  </tr>  
 </table>
